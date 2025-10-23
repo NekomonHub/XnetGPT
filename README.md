@@ -28,4 +28,18 @@ pkg install git -y
 git clone https://github.com/NekomonHub/XnetGPT
 ```
 
-*** Akses ke folder Script ***
+**Akses ke folder Script dan Jalankan Script**
+## Akses ke Folder script ##
+```bash
+cd XnetGPT
+```
+## Unzip file .zip ##
+```bash
+unzip xnetgpt.zip
+```
+## Jalankan Script ##
+```bash
+node server.js
+```
+Otomatis anda akan terarah kedalam website Server anda (http://localhost:3000) secara otomatis
+
