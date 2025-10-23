@@ -11,12 +11,15 @@ pkg update -y && pkg upgrade -y
 ```
 Note: jika termux meminta y/N maka kalian Y kan saja hingga selesai
 *Install NodeJS dan Git*
+# Install Nodejs
 ```bash
 pkg install nodejs -y
 ```
+# Install NodeJS latest
 ```bash
 pkg install nodejs-lts -y 
 ```
+# Install git
 ```bash
 pkg install git -y
 ```
