@@ -3,6 +3,11 @@
     {
       "email": "adel@mango.obf",
       "username": "adelchan"
+    },
+    {
+      "username": "amba",
+      "email": "amba@mango.obf",
+      "expired_at": 1771256515644
     }
   ]
 }
